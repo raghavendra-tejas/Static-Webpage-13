@@ -1,0 +1,29 @@
+#navbar-container {
+  display: flex;
+  height: 130px;
+  align-items: center;
+  background-color: #7030cc;
+  justify-content: space-between;
+  padding: 0 100px;
+}
+
+.nav-right a {
+  margin-right: 50px;
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.nav-right a:hover {
+  color: #21b1ec;
+  border-bottom: 2px solid #21b1ec;
+}
+
+.nav-right button {
+  background-color: #1bbcef;
+  border: none;
+  width: 150px;
+  height: 50px;
+  cursor: pointer;
+  color: #ffffff;
+  font-size: 16px;
+}

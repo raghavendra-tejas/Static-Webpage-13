@@ -1,0 +1,44 @@
+#mid-container {
+  display: flex;
+  height: 600px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 100px;
+}
+
+.mid-left {
+  width: 600px;
+}
+
+.heading h3 {
+  padding-bottom: 20px;
+  font-size: 30px;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 20px 0;
+}
+
+.arrow i {
+  padding-right: 10px;
+}
+
+.arrow .orange {
+  color: #f28a3f;
+}
+
+.arrow .green {
+  color: #7aca3a;
+}
+
+.arrow .blue {
+  color: #3f9cf2;
+}
+
+.content-details h4 {
+  padding-bottom: 10px;
+}

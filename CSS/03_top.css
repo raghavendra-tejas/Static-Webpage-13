@@ -1,0 +1,24 @@
+#top-container {
+  display: flex;
+  height: 600px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #7030cc;
+  padding: 0 100px;
+}
+
+.top-left h1 {
+  color: #ffffff;
+  font-size: 70px;
+}
+
+.top-left p {
+  color: #ffffff;
+  padding-top: 20px;
+  font-size: 20px;
+}
+
+.top-right {
+  width: 600px;
+}
