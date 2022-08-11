@@ -21,7 +21,7 @@
 
 ## Hosted webpage link
 
-[Static Webpage Template - 13](https://static-webpage-template-12.netlify.app/)
+[Static Webpage Template - 13](https://static-webpage-template-13.netlify.app/)
 
 ## My learnings
 
