@@ -1,13 +1,13 @@
 #mid-container {
   display: flex;
-  height: 600px;
+  height: 100%;
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
   padding: 0 100px;
 }
 
-.mid-left {
+.mid-left img {
   width: 600px;
 }
 
