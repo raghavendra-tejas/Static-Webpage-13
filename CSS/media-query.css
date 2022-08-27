@@ -31,6 +31,16 @@
   .mid-left img {
     width: 350px;
   }
+  .bottom-center {
+    flex-direction: column;
+    padding: 50px 0;
+  }
+  .bottom-center-box {
+    width: 220px;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 50px;
+  }
 }
 
 
@@ -64,6 +74,14 @@
   .mid-left img {
     width: 450px;
   }
+  .bottom-center {
+    flex-direction: column;
+    padding: 50px 0;
+  }
+  .bottom-center-box {
+    margin: 0 auto;
+    margin-bottom: 50px;
+  }
 }
 
 
@@ -91,6 +109,15 @@
   }
   .heading h3 {
     text-align: center;
+  }
+  .bottom-center {
+    flex-direction: column;
+  }
+  .bottom-center-box {
+    width: 220px;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 50px;
   }
 }
 

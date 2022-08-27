@@ -8,11 +8,13 @@
   display: flex;
   justify-content: space-around;
   padding: 50px 200px;
+  /* background-color: yellowgreen; */
 }
 
 .bottom-center-box {
   border-radius: 20px;
   box-shadow: 5px 10px 8px #888888;
+  /* background-color: tomato; */
 }
 
 .bottom-center-box-top {
