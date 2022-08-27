@@ -6,6 +6,21 @@
   #navbar-container {
     padding: 50px 20px;
   }
+  #top-container {
+    padding: 50px 20px;
+    flex-direction: column;
+    text-align: center;
+  }
+  .top-left h1 {
+    font-size: 40px;
+  }
+  .top-left p {
+    font-size: 15px;
+  }
+  .top-right img {
+    width: 350px;
+    margin-top: 50px;
+  }
 }
 
 
@@ -17,6 +32,18 @@
   #navbar-container {
     padding: 50px 30px;
   }
+  #top-container {
+    padding: 50px 30px;
+    flex-direction: column;
+    text-align: center;
+  }
+  .top-left h1 {
+    font-size: 50px;
+  }
+  .top-right img {
+    width: 450px;
+    margin-top: 50px;
+  }
 }
 
 
@@ -27,6 +54,17 @@
   }
   #navbar-container {
     padding: 50px 40px;
+  }
+  #top-container {
+    padding: 50px 40px;
+  }
+  #top-container {
+    flex-direction: column;
+    text-align: center;
+  }
+  .top-right img {
+    width: 500px;
+    margin-top: 50px;
   }
 }
 
@@ -42,6 +80,18 @@
   #navbar-container {
     padding: 50px 50px;
   }
+  #top-container {
+    padding: 50px 50px;
+  }
+  .top-left h1 {
+    font-size: 50px;
+  }
+  .top-right img {
+    width: 500px;
+  }
+  .top-left p {
+    padding-right: 100px;
+  }
 }
 
 
@@ -52,5 +102,11 @@
   }
   #navbar-container {
     padding: 50px 60px;
+  }
+  #top-container {
+    padding: 50px 60px;
+  }
+  .top-left p {
+    padding-right: 100px;
   }
 }
