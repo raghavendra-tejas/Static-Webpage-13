@@ -1,6 +1,6 @@
 #navbar-container {
   display: flex;
-  height: 130px;
+  height: 100%;
   align-items: center;
   background-color: #7030cc;
   justify-content: space-between;
